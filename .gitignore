@@ -1,0 +1,8 @@
+node_modules/
+Image/
+.env
+.firebase/
+.firebaserc
+.github/
+dist/
+*.JPG

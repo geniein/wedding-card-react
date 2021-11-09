@@ -1,0 +1,41 @@
+.genie-comment-box {
+  background: rgb(244, 247, 249);
+  border: none;
+  width: 100%;
+  resize: none;
+  padding: 15px;
+  border-radius: 10px;
+  outline: none;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.genie-button {
+  display: inline-block;
+  padding: 0.85em 1em;
+  font-family: inherit;
+  border: none;
+  border-radius: 0.5em;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  transition: background 0.2s ease 0s, color 0.2s ease 0s;
+  background: rgb(0, 136, 255);
+  color: rgb(255, 255, 255);
+}
+.genie-alert {
+  position: relative;
+  padding: 1rem 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  color: #856404;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+}
+.modal-header {
+  color: #084298;
+  background-color: #cfe2ff;
+  border-color: #b6d4fe;
+}
